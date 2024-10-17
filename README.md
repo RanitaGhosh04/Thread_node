@@ -1,4 +1,4 @@
---Overview--  
+_Overview_ 
 Thread Clone is a social media platform that allows users to interact through posts, comments, and real-time chat features. Built with a modern tech stack, it provides a responsive and user-friendly experience.
 
 Features  
